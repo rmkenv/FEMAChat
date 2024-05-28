@@ -1,0 +1,8 @@
+pandas
+requests
+streamlit
+langchain
+langchain-google-genai
+duckduckgo-search
+wikipedia
+youtube_search
